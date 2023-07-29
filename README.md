@@ -25,4 +25,4 @@ A calculadora IMC tem como objeitvo calcular o Índice de massa corporal.
 
 ## 🔖 Disposição
 
-Você pode visualizar o layout do projeto através de [ DESSE LINK ](https://www.figma.com/file/DJ3cW6a6zVKZGSwGNs3S7X/Explorer-Stage-05-Projeto-01-(Copy)?node-id=0%3A1&mode=dev). É necessário ter conta no [ Figma ](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através de [ DESSE LINK ](https://www.figma.com/file/OmTzrDl1l4uf9jYD4svBq1/IMC-(Copy)?node-id=6%3A5&mode=dev). É necessário ter conta no [ Figma ](https://figma.com) para acessá-lo.
